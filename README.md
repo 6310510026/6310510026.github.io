@@ -1,7 +1,7 @@
 # 6310510026.github.io
 PROFILE
 
-<img src="https://github.com/6310510026/cn331.github.io/blob/main/cutegirl.jpg?raw=true"  style= "height: 500px; width: 350px" alt="am i cute">
+<img src="https://github.com/6310510026/6310510026.github.io/blob/main/cutegirl.jpg?raw=true"  style= "height: 500px; width: 350px" alt="am i cute">
 Sureeyanee Duerasor  
 <br>
 Faculty Of Computer Engineering
